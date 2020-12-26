@@ -10,5 +10,17 @@
     This text will bounce
   </marquee>
 </marquee>
+    <div class="wrapper">
+  <div class="box boxLeft">
+    <p>
+      This is the first box.
+    </p>
+  </div>
+  <div class="box boxRight">
+    <p>
+      This is the second box.
+    </p>
+  </div>
+</div>
 </body>
 </html>
