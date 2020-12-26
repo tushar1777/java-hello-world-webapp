@@ -1,26 +1,14 @@
 <html>
 <body>
-<h2>Hello Hammad Siddiqui | DEVOPS </h2>
-  <marquee>This text will scroll from right to left</marquee>
+<h4>Hello Hammad Siddiqui & ببرشیر | DEVOPS & ببرشیر </h4>
+  <marquee>This is Site deployment via TOMCAT via Jenkins using AWS Linux</marquee>
 
-<marquee direction="up">This text will scroll from bottom to top</marquee>
+<marquee direction="up">This is Site deployment via TOMCAT via Jenkins using AWS Linux</marquee>
 
 <marquee direction="down" width="250" height="200" behavior="alternate" style="border:solid">
   <marquee behavior="alternate">
     This text will bounce
   </marquee>
 </marquee>
-    <div class="wrapper">
-  <div class="box boxLeft">
-    <p>
-      This is the first box.
-    </p>
-  </div>
-  <div class="box boxRight">
-    <p>
-      This is the second box.
-    </p>
-  </div>
-</div>
 </body>
 </html>
